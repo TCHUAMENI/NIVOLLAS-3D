@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #e4e4e4;
 }
 
 
@@ -25,7 +25,7 @@ section {
 
 
 .nav-link {
-    color: #ff0000;
+    color: #363636;
     font-weight: 600;
 }
 
@@ -80,8 +80,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/images-removebg-preview.png') top right no-repeat,
-        url('img/images-removebg-preview.png') bottom left no-repeat;
+    background: url('img/64f9dfe41ff302515b4f489c_miles morales png.png') top right no-repeat,
+        url('img/64f9dfe41ff302515b4f489c_miles morales png.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -104,12 +104,12 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ffffff;
 
 }
 
 .fundo-galeria {
-    background: url('img/images-removebg-preview.png') bottom right no-repeat;
+    background: url('img/64f9dfe41ff302515b4f489c_miles morales png.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -127,7 +127,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
